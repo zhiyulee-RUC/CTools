@@ -3,6 +3,8 @@ Python常见工具集合！欢迎Star本项目，将不定期更新各种小工�
 
 1.NLP/T_S_transform_CN
 
+Keywords: 繁体转换，简体转换，繁简转换，繁体转换简体
+
 简介：中文繁体与简体转换代码，极简调用；
 
 使用方法：将 `TS_transform.py` 文件拷贝到工作目录即可；使用例子见`Example.py`文档；
