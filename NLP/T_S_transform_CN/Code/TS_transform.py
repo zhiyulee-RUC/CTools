@@ -1,27 +1,17 @@
 # -*- coding: utf-8 -*-
-
 # 在https://github.com/skydark/nstools/tree/master/zhtools的基础上进一步优化，构建更多的应用接口，方便调用；
 """
 Keywords: 繁体转换，简体转换，繁简转换，繁体转换简体
-
 简介：中文繁体与简体转换代码，极简调用；
-
-使用方法：将 `TS_transform.py` 文件拷贝到工作目录即可；使用例子见`Example.py`文档；
-
 特点：
 * 支持包括，单行转换，列表转换以及文档转换；
 * 支持多线程并行转换，经测试为单线程转换速度的4倍左右；
 * 支持去除标点符号操作；
+使用方法：将 `TS_transform.py` 文件拷贝到工作目录即可；使用例子见`Example.py`文档；
 """
-
-
-
-
 from copy import deepcopy
 import re, sys
 from multiprocessing import Pool, cpu_count
-
-
 
 zh2Hant = {
 '呆': '獃',

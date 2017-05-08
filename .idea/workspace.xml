@@ -17,18 +17,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Example.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/Example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,8 +62,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="627" />
-    <option name="y" value="184" />
+    <option name="x" value="702" />
+    <option name="y" value="349" />
     <option name="width" value="1502" />
     <option name="height" value="849" />
   </component>
@@ -401,10 +390,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="627" y="184" width="1502" height="849" extended-state="0" />
-    <editor active="true" />
+    <frame x="702" y="349" width="1502" height="849" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25342464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25342464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -454,10 +442,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/Example.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -512,44 +507,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/TS_transform.py">
+    <entry file="file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/Example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="e#306#331#0" expanded="true" />
-            <element signature="e#404#50742#0" expanded="false" />
-            <element signature="e#50753#80208#0" expanded="false" />
-            <element signature="e#80217#84430#0" expanded="false" />
-            <element signature="e#84439#87577#0" expanded="false" />
-            <element signature="e#87586#92062#0" expanded="false" />
-            <element signature="e#92071#92265#0" expanded="false" />
-            <element signature="e#92276#92305#0" expanded="false" />
-            <element signature="e#92397#92651#0" expanded="false" />
-            <element signature="e#92834#93690#0" expanded="false" />
-            <element signature="e#93722#94840#0" expanded="false" />
-            <element signature="e#94922#97288#0" expanded="false" />
-            <element signature="e#97319#98697#0" expanded="false" />
-            <element signature="e#98733#98787#0" expanded="false" />
-            <element signature="e#98886#99977#0" expanded="false" />
-            <element signature="e#100031#100103#0" expanded="false" />
-            <element signature="e#100136#100226#0" expanded="false" />
-            <element signature="e#100263#100360#0" expanded="false" />
-            <element signature="e#100393#100483#0" expanded="false" />
-            <element signature="e#100520#100617#0" expanded="false" />
-            <element signature="e#100675#100859#0" expanded="false" />
-            <element signature="e#100917#101101#0" expanded="false" />
-            <element signature="e#101146#101395#0" expanded="false" />
-            <element signature="e#101440#101694#0" expanded="false" />
+            <element signature="e#24#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/Example.py">
+    <entry file="file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/TS_transform.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#298#323#0" expanded="true" />
+            <element signature="e#394#50732#0" expanded="false" />
+            <element signature="e#50743#80198#0" expanded="false" />
+            <element signature="e#80207#84420#0" expanded="false" />
+            <element signature="e#84429#87567#0" expanded="false" />
+            <element signature="e#87576#92052#0" expanded="false" />
+            <element signature="e#92061#92255#0" expanded="false" />
+            <element signature="e#92266#92295#0" expanded="false" />
+            <element signature="e#92387#92641#0" expanded="false" />
+            <element signature="e#92824#93680#0" expanded="false" />
+            <element signature="e#93712#94830#0" expanded="false" />
+            <element signature="e#94912#97278#0" expanded="false" />
+            <element signature="e#97309#98687#0" expanded="false" />
+            <element signature="e#98723#98777#0" expanded="false" />
+            <element signature="e#98876#99967#0" expanded="false" />
+            <element signature="e#100021#100093#0" expanded="false" />
+            <element signature="e#100126#100216#0" expanded="false" />
+            <element signature="e#100253#100350#0" expanded="false" />
+            <element signature="e#100383#100473#0" expanded="false" />
+            <element signature="e#100510#100607#0" expanded="false" />
+            <element signature="e#100665#100849#0" expanded="false" />
+            <element signature="e#100907#101091#0" expanded="false" />
+            <element signature="e#101136#101385#0" expanded="false" />
+            <element signature="e#101430#101684#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
