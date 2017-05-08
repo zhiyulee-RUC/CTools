@@ -16,5 +16,5 @@ Python常见工具集合！欢迎Star本项目，将不定期更新各种小工�
 ```python
 from TS_transform import *
 print T2S('天好藍要和你一起看，起風時由你来温暖。')
+# 输出：天好蓝要和你一起看，起风时由你来温暖。
 ```
- 
