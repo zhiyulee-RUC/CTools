@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28d1b0c8-987a-43aa-968c-bd6e509f7feb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NLP/T_S_transform_CN/Code/TS_transform.py" afterPath="$PROJECT_DIR$/NLP/T_S_transform_CN/Code/TS_transform.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +17,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Example.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/Example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,6 +62,7 @@
         <option value="$PROJECT_DIR$/NLP/T_S_Change/Code/TS_transform.py" />
         <option value="$PROJECT_DIR$/NLP/T_S_Change/Code/Example.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/NLP/T_S_transform_CN/Code/TS_transform.py" />
       </list>
     </option>
   </component>
@@ -61,8 +73,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="553" />
-    <option name="y" value="146" />
+    <option name="x" value="627" />
+    <option name="y" value="184" />
     <option name="width" value="1502" />
     <option name="height" value="849" />
   </component>
@@ -389,9 +401,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="553" y="146" width="1502" height="849" extended-state="0" />
+    <frame x="627" y="184" width="1502" height="849" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25342464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25342464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -482,49 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/TS_transform.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8598" column="0" lean-forward="true" selection-start-line="8598" selection-start-column="0" selection-end-line="8598" selection-end-column="0" />
-          <folding>
-            <element signature="e#108#133#0" expanded="true" />
-            <element signature="e#206#50544#0" expanded="false" />
-            <element signature="e#50555#80010#0" expanded="false" />
-            <element signature="e#80019#84232#0" expanded="false" />
-            <element signature="e#84241#87379#0" expanded="false" />
-            <element signature="e#87388#91864#0" expanded="false" />
-            <element signature="e#91873#92067#0" expanded="false" />
-            <element signature="e#92078#92107#0" expanded="false" />
-            <element signature="e#92199#92453#0" expanded="false" />
-            <element signature="e#92636#93492#0" expanded="false" />
-            <element signature="e#93524#94642#0" expanded="false" />
-            <element signature="e#94724#97090#0" expanded="false" />
-            <element signature="e#97121#98499#0" expanded="false" />
-            <element signature="e#98535#98589#0" expanded="false" />
-            <element signature="e#98688#99779#0" expanded="false" />
-            <element signature="e#99833#99905#0" expanded="false" />
-            <element signature="e#99938#100028#0" expanded="false" />
-            <element signature="e#100065#100162#0" expanded="false" />
-            <element signature="e#100195#100285#0" expanded="false" />
-            <element signature="e#100322#100419#0" expanded="false" />
-            <element signature="e#100477#100661#0" expanded="false" />
-            <element signature="e#100719#100903#0" expanded="false" />
-            <element signature="e#100948#101197#0" expanded="false" />
-            <element signature="e#101242#101496#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/Example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-          <folding>
-            <element signature="e#24#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -534,11 +504,52 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/TS_transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#306#331#0" expanded="true" />
+            <element signature="e#404#50742#0" expanded="false" />
+            <element signature="e#50753#80208#0" expanded="false" />
+            <element signature="e#80217#84430#0" expanded="false" />
+            <element signature="e#84439#87577#0" expanded="false" />
+            <element signature="e#87586#92062#0" expanded="false" />
+            <element signature="e#92071#92265#0" expanded="false" />
+            <element signature="e#92276#92305#0" expanded="false" />
+            <element signature="e#92397#92651#0" expanded="false" />
+            <element signature="e#92834#93690#0" expanded="false" />
+            <element signature="e#93722#94840#0" expanded="false" />
+            <element signature="e#94922#97288#0" expanded="false" />
+            <element signature="e#97319#98697#0" expanded="false" />
+            <element signature="e#98733#98787#0" expanded="false" />
+            <element signature="e#98886#99977#0" expanded="false" />
+            <element signature="e#100031#100103#0" expanded="false" />
+            <element signature="e#100136#100226#0" expanded="false" />
+            <element signature="e#100263#100360#0" expanded="false" />
+            <element signature="e#100393#100483#0" expanded="false" />
+            <element signature="e#100520#100617#0" expanded="false" />
+            <element signature="e#100675#100859#0" expanded="false" />
+            <element signature="e#100917#101101#0" expanded="false" />
+            <element signature="e#101146#101395#0" expanded="false" />
+            <element signature="e#101440#101694#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/T_S_transform_CN/Code/Example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
